@@ -1,9 +1,13 @@
-### Hi there 👋
+## Hii 👋
+
+Im a tech enthusiastic and a web developer. I don't want to bore you with my life so, here are some key things about me.
+
+## Socials
+<a href="https://www.linkedin.com/in/fedenaka/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="linkedin" width="20" height="20" /></a>
+<a href="https://twitter.com/fedenaka" target="_blank"><img src="https://serv1.raiolanetworks.es/blog/wp-content/uploads/twitterlogodown.png" alt="twitter" width="20" height="20" /></a>
 
 <!--
-**fedenaka/fedenaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Boring things
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Tools & Languages 
 -->
