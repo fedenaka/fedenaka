@@ -14,14 +14,14 @@ I’m a software developer and tech enthusiastic. I don't want to bore you with 
 <a href="https://twitter.com/fedenaka" target="_blank"><img src="https://serv1.raiolanetworks.es/blog/wp-content/uploads/twitterlogodown.png" alt="twitter" width="20" height="20"></a>
 
 ## Tools & Languages
-<p align="center">Here are some of the stuff i’m most familiar with, some of them i really like and some others... meh</p>
-<p align="center">
+<p>Here are some of the stuff i’m most familiar with, some of them i really like and some others... meh</p>
+<p>
   <a href="https://nodejs.org/" target="_blank"><img src="https://www.lomasnuevo.net/wp-contentupl/2018/04/Nodejs.png" alt="NodeJS" height="30" style="margin-right: 5px"></a>
   <a href="https://expressjs.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="ExpressJS" height="30" style="margin-right: 5px"></a>
   <a href="https://laravel.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" height="30"></a>
   <a href="https://reactnative.dev/" target="_blank"><img src="https://sandstorm.de/_Resources/Persistent/3/2/8/5/3285416e8503b2c8354c321bcd690cf550b8b2d3/React-Logo.svg" alt="React-Native" height="30"></a>
   <a href="https://vuejs.org/" target="_blank"><img src="https://hackeruna.com/wp-content/uploads/2020/10/VueJS.png" alt="VueJS" height="30"></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwind" height="30"></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://hight.io/_nuxt/img/tailwind.3558838.png" alt="Tailwind" height="30"></a>
   <a href="https://graphql.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" alt="GraphQL" height="30"></a>
   <a href="https://www.apollographql.com/" target="_blank"><img src="https://seeklogo.com/images/A/apollo-logo-DC7DD3C444-seeklogo.com.png" alt="Apollo" height="30"></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgresSQL" height="30"></a>
