@@ -1,11 +1,11 @@
-# Hii there! 👋
+# Hii there, human! 👋👽
 
 I’m a software developer and tech enthusiastic. I don't want to bore you with my life so, here are some key things about me.
 
 - I’m always watching space stuffs 🚀
 - I really like to build things people use 📱
 - I love science and astronomy 🌌
-- I’m always learning something 📚
+- I’m always trying to learn something 📚
 - I’m willing to help anyone ℹ️ (There wasn’t any good emoji)
 - I want all the tech i can, don’t judge me 🤖
 
