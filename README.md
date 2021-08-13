@@ -1,6 +1,6 @@
 # Hii there, human! 👋👽
 
-I’m a software developer and tech enthusiastic. I don't want to bore you with my life so, here are some key things about me.
+I’m a software developer and tech enthusiast. I don't want to bore you with my life so, here are some key things about me.
 
 - I’m always watching space stuffs 🚀
 - I really like to build things people use 📱
