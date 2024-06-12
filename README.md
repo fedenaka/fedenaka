@@ -11,7 +11,7 @@ I’m a software developer and tech enthusiast. I don't want to bore you with my
 
 ## Connections
 <a href="https://www.linkedin.com/in/fedenaka/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="linkedin" width="20" height="20"></a>
-<a href="https://x.com/fedenaka" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png" alt="twitter" width="20" height="20"></a>
+<a href="https://x.com/fedenaka" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-x-logo-9764640-7941131.png" alt="twitter" width="20" height="20"></a>
 
 ## Tools & Languages
 <p>Here are some of the stuff i’m most familiar with, some of them i really like and some others... meh</p>
